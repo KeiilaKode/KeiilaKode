@@ -1,5 +1,5 @@
 ## Hi there 👋
-![SNHU Cybersecurity Certificate](cybersecurity_certificate.png)
+![SNHU Cybersecurity Certificate](cybersecurity_certificate.PNG)
 
 
 
