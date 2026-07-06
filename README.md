@@ -1,5 +1,4 @@
 ## Hi there 👋
-![SNHU Cybersecurity Certificate](cybersecurity_certificate.png)
-
+<img src="cybersecurity_certificate.png" alt="SNHU Cybersecurity Certificate" width="450">
 
 
